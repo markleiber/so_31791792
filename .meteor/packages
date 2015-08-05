@@ -10,3 +10,7 @@ insecure
 aldeed:autoform
 aldeed:collection2
 iron:router
+aldeed:tabular
+twbs:bootstrap
+accounts-ui
+accounts-password
